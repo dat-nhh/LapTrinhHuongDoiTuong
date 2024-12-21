@@ -1,0 +1,8 @@
+C:\Users\LEGION\Documents\VS2022\nguSol\ngu\bin\Debug\ngu.exe.config
+C:\Users\LEGION\Documents\VS2022\nguSol\ngu\bin\Debug\ngu.exe
+C:\Users\LEGION\Documents\VS2022\nguSol\ngu\bin\Debug\ngu.pdb
+C:\Users\LEGION\Documents\VS2022\nguSol\ngu\obj\Debug\ngu.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\VS2022\nguSol\ngu\obj\Debug\ngu.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Documents\VS2022\nguSol\ngu\obj\Debug\ngu.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\VS2022\nguSol\ngu\obj\Debug\ngu.exe
+C:\Users\LEGION\Documents\VS2022\nguSol\ngu\obj\Debug\ngu.pdb

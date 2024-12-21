@@ -1,0 +1,16 @@
+C:\Users\LEGION\Documents\VS2022\DeMau1\DeMau1\bin\Debug\DeMau1.exe.config
+C:\Users\LEGION\Documents\VS2022\DeMau1\DeMau1\bin\Debug\DeMau1.exe
+C:\Users\LEGION\Documents\VS2022\DeMau1\DeMau1\bin\Debug\DeMau1.pdb
+C:\Users\LEGION\Documents\VS2022\DeMau1\DeMau1\obj\Debug\DeMau1.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\VS2022\DeMau1\DeMau1\obj\Debug\DeMau1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Documents\VS2022\DeMau1\DeMau1\obj\Debug\DeMau1.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\VS2022\DeMau1\DeMau1\obj\Debug\DeMau1.exe
+C:\Users\LEGION\Documents\VS2022\DeMau1\DeMau1\obj\Debug\DeMau1.pdb
+C:\Users\LEGION\Documents\VS2022\OOP\DeMau1\DeMau1\bin\Debug\DeMau1.exe.config
+C:\Users\LEGION\Documents\VS2022\OOP\DeMau1\DeMau1\bin\Debug\DeMau1.exe
+C:\Users\LEGION\Documents\VS2022\OOP\DeMau1\DeMau1\bin\Debug\DeMau1.pdb
+C:\Users\LEGION\Documents\VS2022\OOP\DeMau1\DeMau1\obj\Debug\DeMau1.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\VS2022\OOP\DeMau1\DeMau1\obj\Debug\DeMau1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Documents\VS2022\OOP\DeMau1\DeMau1\obj\Debug\DeMau1.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\VS2022\OOP\DeMau1\DeMau1\obj\Debug\DeMau1.exe
+C:\Users\LEGION\Documents\VS2022\OOP\DeMau1\DeMau1\obj\Debug\DeMau1.pdb

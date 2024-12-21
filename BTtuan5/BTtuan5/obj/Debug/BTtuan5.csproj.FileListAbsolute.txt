@@ -1,0 +1,8 @@
+C:\Users\LEGION\Documents\VS2022\BTtuan5\BTtuan5\obj\Debug\BTtuan5.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\VS2022\BTtuan5\BTtuan5\obj\Debug\BTtuan5.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Documents\VS2022\BTtuan5\BTtuan5\obj\Debug\BTtuan5.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\VS2022\BTtuan5\BTtuan5\bin\Debug\BTtuan5.exe.config
+C:\Users\LEGION\Documents\VS2022\BTtuan5\BTtuan5\bin\Debug\BTtuan5.exe
+C:\Users\LEGION\Documents\VS2022\BTtuan5\BTtuan5\bin\Debug\BTtuan5.pdb
+C:\Users\LEGION\Documents\VS2022\BTtuan5\BTtuan5\obj\Debug\BTtuan5.exe
+C:\Users\LEGION\Documents\VS2022\BTtuan5\BTtuan5\obj\Debug\BTtuan5.pdb

@@ -1,0 +1,8 @@
+C:\Users\LEGION\Documents\VS2022\BTTuan7\BTTuan7\bin\Debug\BTTuan7.exe.config
+C:\Users\LEGION\Documents\VS2022\BTTuan7\BTTuan7\bin\Debug\BTTuan7.exe
+C:\Users\LEGION\Documents\VS2022\BTTuan7\BTTuan7\bin\Debug\BTTuan7.pdb
+C:\Users\LEGION\Documents\VS2022\BTTuan7\BTTuan7\obj\Debug\BTTuan7.csproj.AssemblyReference.cache
+C:\Users\LEGION\Documents\VS2022\BTTuan7\BTTuan7\obj\Debug\BTTuan7.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Documents\VS2022\BTTuan7\BTTuan7\obj\Debug\BTTuan7.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Documents\VS2022\BTTuan7\BTTuan7\obj\Debug\BTTuan7.exe
+C:\Users\LEGION\Documents\VS2022\BTTuan7\BTTuan7\obj\Debug\BTTuan7.pdb
